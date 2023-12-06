@@ -17,17 +17,17 @@ queue. Is there any evidence that this reduces the chance that callers abandon t
 The Excel data file ‘EnergyCallCentre.xlsx’ contains the following data for 504 ‘peak’ hours of operation from
 last Winter:
 
-• Month – refers to three 2-month long periods of time;
-• VHT – specifies whether Virtual Hold Technology was on or off;
-• ToD – specifies which peak hour the data is from;
-• Agents – an indication of the number of agents available to handle calls during the hour (not very
+• **Month** – refers to three 2-month long periods of time;
+• **VHT** – specifies whether Virtual Hold Technology was on or off;
+• **ToD **– specifies which peak hour the data is from;
+• **Agents** – an indication of the number of agents available to handle calls during the hour (not very
 accurate);
-• CallsOffered – number of callers calling during the hour;
-• CallsAbandoned – number of calls arriving during the hour which rang off before speaking to an agent;
-• CallsHandled – number of calls arriving during the hour which spoke to an agent;
-• ASA – average speed of answer (minutes), i.e. average time between the caller first ringing the call
+• **CallsOffered** – number of callers calling during the hour;
+• **CallsAbandoned** – number of calls arriving during the hour which rang off before speaking to an agent;
+• **CallsHandled** – number of calls arriving during the hour which spoke to an agent;
+• **ASA** – average speed of answer (minutes), i.e. average time between the caller first ringing the call
 centre and speaking to an agents;
-• Avehandletime – the average time that calls require from an agent, including ‘wrap-up’ time.
+• **Avehandletime** – the average time that calls require from an agent, including ‘wrap-up’ time.
 
 
 Draw a random sample of size 100 from this population of one hour periods and investigate your sample
