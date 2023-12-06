@@ -16,6 +16,7 @@ queue. Is there any evidence that this reduces the chance that callers abandon t
 
 The Excel data file ‘EnergyCallCentre.xlsx’ contains the following data for 504 ‘peak’ hours of operation from
 last Winter:
+
 • Month – refers to three 2-month long periods of time;
 • VHT – specifies whether Virtual Hold Technology was on or off;
 • ToD – specifies which peak hour the data is from;
